@@ -1,0 +1,59 @@
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.pdb
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csprojResolveAssemblyReference.cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.MainForm.resources
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csproj.GenerateResource.Cache
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.exe
+C:\Users\domex\Documents\SharpDevelop Projects\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad3\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.pdb
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csprojResolveAssemblyReference.cache
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.MainForm.resources
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csproj.GenerateResource.Cache
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.exe
+C:\Users\domex\Desktop\R.C.Z\Z1\Zestaw1Zad3\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.exe
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.exe
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\Zestaw1Zad3\bin\Debug\Zestaw1Zad3.pdb
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\Zestaw1Zad3\obj\Debug\zad33.MainForm.resources
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\Zestaw1Zad3\obj\Debug\Zestaw1Zad3.csproj.GenerateResource.Cache
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\zad33\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\zad33\bin\Debug\Zestaw1Zad3.exe
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\zad33\bin\Debug\Zestaw1Zad3.pdb
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\zad33\obj\Debug\zad33.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\zad33\obj\Debug\zad33.MainForm.resources
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\zad33\obj\Debug\zad33.csproj.GenerateResource.Cache
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\zad33\obj\Debug\Zestaw1Zad3.exe
+C:\Users\micha\Desktop\R.C.Z\R.C.Z\Z1\zad33\zad33\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\u4lab\Desktop\16_B_Tyrala_Michal\zest_01__zad_03\zad33\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\u4lab\Desktop\16_B_Tyrala_Michal\zest_01__zad_03\zad33\obj\Debug\Zestaw1Zad3.exe
+C:\Users\u4lab\Desktop\16_B_Tyrala_Michal\zest_01__zad_03\zad33\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\u4lab\Desktop\16_B_Tyrala_Michal\zest_01__zad_03\zad33\bin\Debug\Zestaw1Zad3.exe
+C:\Users\u4lab\Desktop\16_B_Tyrala_Michal\zest_01__zad_03\zad33\bin\Debug\Zestaw1Zad3.pdb
+C:\Users\u4lab\Desktop\16_B_Tyrala_Michal\zest_01__zad_03\zad33\obj\Debug\zad33.csprojResolveAssemblyReference.cache
+C:\Users\u4lab\Desktop\16_B_Tyrala_Michal\zest_01__zad_03\zad33\obj\Debug\zad33.MainForm.resources
+C:\Users\u4lab\Desktop\16_B_Tyrala_Michal\zest_01__zad_03\zad33\obj\Debug\zad33.csproj.GenerateResource.Cache
+C:\Users\s13lab\Documents\Bahniuk Denys\zest_01__zad_03\zad33\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\s13lab\Documents\Bahniuk Denys\zest_01__zad_03\zad33\obj\Debug\Zestaw1Zad3.exe
+C:\Users\s13lab\Documents\Bahniuk Denys\zest_01__zad_03\zad33\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\s13lab\Documents\Bahniuk Denys\zest_01__zad_03\zad33\bin\Debug\Zestaw1Zad3.exe
+C:\Users\s13lab\Documents\Bahniuk Denys\zest_01__zad_03\zad33\bin\Debug\Zestaw1Zad3.pdb
+C:\Users\s13lab\Documents\Bahniuk Denys\zest_01__zad_03\zad33\obj\Debug\zad33.csprojResolveAssemblyReference.cache
+C:\Users\s13lab\Documents\Bahniuk Denys\zest_01__zad_03\zad33\obj\Debug\zad33.MainForm.resources
+C:\Users\s13lab\Documents\Bahniuk Denys\zest_01__zad_03\zad33\obj\Debug\zad33.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\zest_01__zad_03\zad33\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\zest_01__zad_03\zad33\obj\Debug\Zestaw1Zad3.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\zest_01__zad_03\zad33\obj\Debug\Zestaw1Zad3.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\zest_01__zad_03\zad33\bin\Debug\Zestaw1Zad3.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\zest_01__zad_03\zad33\bin\Debug\Zestaw1Zad3.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\zest_01__zad_03\zad33\obj\Debug\zad33.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\zest_01__zad_03\zad33\obj\Debug\zad33.MainForm.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\zest_01__zad_03\zad33\obj\Debug\zad33.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie3\zest_01__zad_03\zad33\bin\Debug\Zestaw1Zad3.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie3\zest_01__zad_03\zad33\obj\Debug\Zestaw1Zad3.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie3\zest_01__zad_03\zad33\obj\Debug\Zestaw1Zad3.pdb

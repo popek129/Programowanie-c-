@@ -1,0 +1,39 @@
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\bin\Release\tryg 15_05.exe.config
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\bin\Release\tryg 15_05.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\bin\Release\tryg 15_05.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Release\tryg_15_05.Form1.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Release\tryg_15_05.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\Programowanie\Bejbus_Patryk\z1_05\tryg 15_05\tryg 15_05\bin\Release\tryg 15_05.exe.config
+C:\Users\Patryk\Desktop\Programowanie\Bejbus_Patryk\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.exe
+C:\Users\Patryk\Desktop\Programowanie\Bejbus_Patryk\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.pdb
+C:\Users\Patryk\Desktop\Programowanie\Bejbus_Patryk\z1_05\tryg 15_05\tryg 15_05\bin\Release\tryg 15_05.exe
+C:\Users\Patryk\Desktop\Programowanie\Bejbus_Patryk\z1_05\tryg 15_05\tryg 15_05\bin\Release\tryg 15_05.pdb
+C:\Users\Patryk\Desktop\Programowanie\Bejbus_Patryk\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\Programowanie\Bejbus_Patryk\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg_15_05.Form1.resources
+C:\Users\Patryk\Desktop\Programowanie\Bejbus_Patryk\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg_15_05.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Programowanie\Bejbus_Patryk\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z1_05\tryg 15_05\tryg 15_05\bin\Release\tryg 15_05.exe.config
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.exe
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.pdb
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z1_05\tryg 15_05\tryg 15_05\bin\Release\tryg 15_05.exe
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z1_05\tryg 15_05\tryg 15_05\bin\Release\tryg 15_05.pdb
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg_15_05.Form1.resources
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg_15_05.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 15_05.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\z1_05\tryg 15_05\tryg 15_05\bin\Release\tryg 16_02.exe.config
+C:\Users\Lenovo\Desktop\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 16_02.exe
+C:\Users\Lenovo\Desktop\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 16_02.pdb
+C:\Users\Lenovo\Desktop\z1_05\tryg 15_05\tryg 15_05\bin\Release\tryg 16_02.exe
+C:\Users\Lenovo\Desktop\z1_05\tryg 15_05\tryg 15_05\bin\Release\tryg 16_02.pdb
+C:\Users\Lenovo\Desktop\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 16_02.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg_16_02.Form1.resources
+C:\Users\Lenovo\Desktop\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg_16_02.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 16_02.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\z1_05\tryg 15_05\tryg 15_05\bin\Release\tryg 16_02.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 16_02.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\z1_05\tryg 15_05\tryg 15_05\obj\Release\tryg 16_02.pdb

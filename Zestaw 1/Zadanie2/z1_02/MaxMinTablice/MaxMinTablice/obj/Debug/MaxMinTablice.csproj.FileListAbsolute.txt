@@ -1,0 +1,21 @@
+C:\Users\Patryk\Desktop\Programowanie\JiPP\MaxMinTablice\MaxMinTablice\bin\Debug\MaxMinTablice.exe.config
+C:\Users\Patryk\Desktop\Programowanie\JiPP\MaxMinTablice\MaxMinTablice\bin\Debug\MaxMinTablice.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\MaxMinTablice\MaxMinTablice\bin\Debug\MaxMinTablice.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.Form1.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.pdb
+C:\Users\Lenovo\Desktop\z1_02,03\MaxMinTablice\MaxMinTablice\bin\Debug\MaxMinTablice.exe.config
+C:\Users\Lenovo\Desktop\z1_02,03\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.exe
+C:\Users\Lenovo\Desktop\z1_02,03\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.pdb
+C:\Users\Lenovo\Desktop\z1_02,03\MaxMinTablice\MaxMinTablice\bin\Debug\MaxMinTablice.exe
+C:\Users\Lenovo\Desktop\z1_02,03\MaxMinTablice\MaxMinTablice\bin\Debug\MaxMinTablice.pdb
+C:\Users\Lenovo\Desktop\z1_02,03\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\z1_02,03\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.Form1.resources
+C:\Users\Lenovo\Desktop\z1_02,03\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\z1_02,03\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\z1_02\MaxMinTablice\MaxMinTablice\bin\Debug\MaxMinTablice.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\z1_02\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\z1_02\MaxMinTablice\MaxMinTablice\obj\Debug\MaxMinTablice.pdb

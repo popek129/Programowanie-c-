@@ -1,0 +1,18 @@
+C:\Users\Lenovo\Desktop\z1_01\cw13_01\cw13_01\bin\Debug\cw16_01.exe.config
+C:\Users\Lenovo\Desktop\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.exe
+C:\Users\Lenovo\Desktop\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.pdb
+C:\Users\Lenovo\Desktop\z1_01\cw13_01\cw13_01\bin\Debug\cw16_01.exe
+C:\Users\Lenovo\Desktop\z1_01\cw13_01\cw13_01\bin\Debug\cw16_01.pdb
+C:\Users\Lenovo\Desktop\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.Form1.resources
+C:\Users\Lenovo\Desktop\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie1\z1_01\cw13_01\cw13_01\bin\Debug\cw16_01.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie1\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie1\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie1\z1_01\cw13_01\cw13_01\bin\Debug\cw16_01.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie1\z1_01\cw13_01\cw13_01\bin\Debug\cw16_01.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie1\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie1\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.Form1.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie1\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 1\Zadanie1\z1_01\cw13_01\cw13_01\obj\Debug\cw16_01.csproj.GenerateResource.Cache

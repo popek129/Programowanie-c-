@@ -1,0 +1,9 @@
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\bin\Debug\tryg 15_05.exe.config
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\bin\Debug\tryg 15_05.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\bin\Debug\tryg 15_05.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Debug\tryg 15_05.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Debug\tryg_15_05.Form1.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Debug\tryg_15_05.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Debug\tryg 15_05.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Debug\tryg 15_05.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tryg 15_05\tryg 15_05\obj\Debug\tryg 15_05.pdb

@@ -1,0 +1,9 @@
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_01 rysowanie\2_01 rysowanie\bin\Debug\2_01 rysowanie.exe.config
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_01 rysowanie\2_01 rysowanie\bin\Debug\2_01 rysowanie.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_01 rysowanie\2_01 rysowanie\bin\Debug\2_01 rysowanie.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_01 rysowanie\2_01 rysowanie\obj\Debug\2_01 rysowanie.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_01 rysowanie\2_01 rysowanie\obj\Debug\_2_01_rysowanie.Form1.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_01 rysowanie\2_01 rysowanie\obj\Debug\_2_01_rysowanie.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_01 rysowanie\2_01 rysowanie\obj\Debug\2_01 rysowanie.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_01 rysowanie\2_01 rysowanie\obj\Debug\2_01 rysowanie.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_01 rysowanie\2_01 rysowanie\obj\Debug\2_01 rysowanie.pdb

@@ -1,0 +1,30 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Daniel_Ziemkiewicz01_02\bin\Debug\Daniel_Ziemkiewicz01_02.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Daniel_Ziemkiewicz01_02\bin\Debug\Daniel_Ziemkiewicz01_02.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Daniel_Ziemkiewicz01_02\bin\Debug\Daniel_Ziemkiewicz01_02.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Daniel_Ziemkiewicz01_02\obj\Debug\Daniel_Ziemkiewicz01_02.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Daniel_Ziemkiewicz01_02\obj\Debug\Daniel_Ziemkiewicz01_02.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Daniel_Ziemkiewicz01_02\obj\Debug\Daniel_Ziemkiewicz01_02.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Daniel_Ziemkiewicz01_02\obj\Debug\Daniel_Ziemkiewicz01_02.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Daniel_Ziemkiewicz01_02\obj\Debug\Daniel_Ziemkiewicz01_02.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Daniel_Ziemkiewicz01_02\obj\Debug\Daniel_Ziemkiewicz01_02.pdb
+C:\Users\Lenovo\Desktop\Daniel_Ziemkiewicz01_02\bin\Debug\01_02.exe.config
+C:\Users\Lenovo\Desktop\Daniel_Ziemkiewicz01_02\bin\Debug\01_02.exe
+C:\Users\Lenovo\Desktop\Daniel_Ziemkiewicz01_02\bin\Debug\01_02.pdb
+C:\Users\Lenovo\Desktop\Daniel_Ziemkiewicz01_02\obj\Debug\_01_02.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Daniel_Ziemkiewicz01_02\obj\Debug\_01_02.Form1.resources
+C:\Users\Lenovo\Desktop\Daniel_Ziemkiewicz01_02\obj\Debug\_01_02.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Daniel_Ziemkiewicz01_02\obj\Debug\_01_02.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Daniel_Ziemkiewicz01_02\obj\Debug\01_02.exe
+C:\Users\Lenovo\Desktop\Daniel_Ziemkiewicz01_02\obj\Debug\01_02.pdb
+C:\Users\Lenovo\Desktop\_01_02\bin\Debug\01_02.exe.config
+C:\Users\Lenovo\Desktop\_01_02\obj\Debug\01_02.exe
+C:\Users\Lenovo\Desktop\_01_02\obj\Debug\01_02.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadanie 1\_01_02\bin\Debug\01_02.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadanie 1\_01_02\obj\Debug\01_02.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadanie 1\_01_02\obj\Debug\01_02.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadanie 1\_01_02\bin\Debug\01_02.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadanie 1\_01_02\bin\Debug\01_02.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadanie 1\_01_02\obj\Debug\_01_02.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadanie 1\_01_02\obj\Debug\_01_02.Form1.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadanie 1\_01_02\obj\Debug\_01_02.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadanie 1\_01_02\obj\Debug\_01_02.csproj.GenerateResource.Cache

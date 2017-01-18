@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_01\2_01 rysowanie\2_01 rysowanie\bin\Release\16_03 rysowanie.exe.config
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_01\2_01 rysowanie\2_01 rysowanie\obj\Release\16_03 rysowanie.exe
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_01\2_01 rysowanie\2_01 rysowanie\obj\Release\16_03 rysowanie.pdb
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_01\2_01 rysowanie\2_01 rysowanie\obj\Release\16_03 rysowanie.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_01\2_01 rysowanie\2_01 rysowanie\obj\Release\_16_03_rysowanie.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_01\2_01 rysowanie\2_01 rysowanie\obj\Release\16_03 rysowanie.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_01\2_01 rysowanie\2_01 rysowanie\bin\Release\16_03 rysowanie.exe
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_01\2_01 rysowanie\2_01 rysowanie\bin\Release\16_03 rysowanie.pdb
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_01\2_01 rysowanie\2_01 rysowanie\obj\Release\_16_03_rysowanie.Form1.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 3\Zad1\z16_03\2_01 rysowanie\2_01 rysowanie\bin\Release\16_03 rysowanie.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 3\Zad1\z16_03\2_01 rysowanie\2_01 rysowanie\obj\Release\16_03 rysowanie.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 3\Zad1\z16_03\2_01 rysowanie\2_01 rysowanie\obj\Release\16_03 rysowanie.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 3\Zad1\z16_03\16_03 rysowanie\2_01 rysowanie\bin\Release\16_03 rysowanie.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 3\Zad1\z16_03\16_03 rysowanie\2_01 rysowanie\obj\Release\16_03 rysowanie.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 3\Zad1\z16_03\16_03 rysowanie\2_01 rysowanie\obj\Release\16_03 rysowanie.pdb

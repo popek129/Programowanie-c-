@@ -1,0 +1,9 @@
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tab 15_04\tab 15_04\bin\Debug\tab 15_04.exe.config
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tab 15_04\tab 15_04\bin\Debug\tab 15_04.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tab 15_04\tab 15_04\bin\Debug\tab 15_04.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tab 15_04\tab 15_04\obj\Debug\tab 15_04.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tab 15_04\tab 15_04\obj\Debug\tab_15_04.Form1.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tab 15_04\tab 15_04\obj\Debug\tab_15_04.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tab 15_04\tab 15_04\obj\Debug\tab 15_04.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tab 15_04\tab 15_04\obj\Debug\tab 15_04.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\tab 15_04\tab 15_04\obj\Debug\tab 15_04.pdb

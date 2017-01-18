@@ -1,0 +1,23 @@
+C:\Users\Lenovo\Desktop\z1_04\tab 15_04\tab 15_04\obj\Release\tab_16_01.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\z1_04\tab 15_04\tab 15_04\obj\Release\tab 16_01.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\z1_04\tab 15_04\tab 15_04\obj\Release\tab 16_01.exe
+C:\Users\Lenovo\Desktop\z1_04\tab 15_04\tab 15_04\obj\Release\tab 16_01.pdb
+C:\Users\Lenovo\Desktop\z1_04\tab 15_04\tab 15_04\bin\Release\tab 16_01.exe.config
+C:\Users\Lenovo\Desktop\z1_04\tab 15_04\tab 15_04\bin\Release\tab 16_01.exe
+C:\Users\Lenovo\Desktop\z1_04\tab 15_04\tab 15_04\bin\Release\tab 16_01.pdb
+C:\Users\Lenovo\Desktop\z1_04\tab 15_04\tab 15_04\obj\Release\tab_16_01.Form1.resources
+C:\Users\Lenovo\Desktop\z1_04\tab 16_01\tab 15_04\bin\Release\tab 16_01.exe.config
+C:\Users\Lenovo\Desktop\z1_04\tab 16_01\tab 15_04\obj\Release\tab 16_01.exe
+C:\Users\Lenovo\Desktop\z1_04\tab 16_01\tab 15_04\obj\Release\tab 16_01.pdb
+C:\Users\Lenovo\Desktop\z16_02\tab 16_01\tab 15_04\bin\Release\tab 16_01.exe.config
+C:\Users\Lenovo\Desktop\z16_02\tab 16_01\tab 15_04\obj\Release\tab 16_01.exe
+C:\Users\Lenovo\Desktop\z16_02\tab 16_01\tab 15_04\obj\Release\tab 16_01.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadane 2\z16_02\tab 16_01\tab 15_04\bin\Release\tab 16_01.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadane 2\z16_02\tab 16_01\tab 15_04\obj\Release\tab 16_01.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadane 2\z16_02\tab 16_01\tab 15_04\obj\Release\tab 16_01.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadane 2\z16_02\tab 16_01\tab 15_04\bin\Release\tab 16_01.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadane 2\z16_02\tab 16_01\tab 15_04\bin\Release\tab 16_01.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadane 2\z16_02\tab 16_01\tab 15_04\obj\Release\tab 16_01.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadane 2\z16_02\tab 16_01\tab 15_04\obj\Release\tab_16_01.Form1.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadane 2\z16_02\tab 16_01\tab 15_04\obj\Release\tab_16_01.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 2\Zadane 2\z16_02\tab 16_01\tab 15_04\obj\Release\tab 16_01.csproj.GenerateResource.Cache

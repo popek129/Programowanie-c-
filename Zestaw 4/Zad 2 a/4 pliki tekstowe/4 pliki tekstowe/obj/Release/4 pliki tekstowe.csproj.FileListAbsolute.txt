@@ -1,0 +1,26 @@
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\bin\Release\4 pliki tekstowe.exe.config
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\bin\Release\4 pliki tekstowe.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\bin\Release\4 pliki tekstowe.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\obj\Release\_4_pliki_tekstowe.Form1.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\obj\Release\_4_pliki_tekstowe.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\bin\Release\4 pliki tekstowe.exe.manifest
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\bin\Release\4 pliki tekstowe.application
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.exe.manifest
+C:\Users\Patryk\Desktop\Programowanie\JiPP\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.application
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\bin\Release\4 pliki tekstowe.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\bin\Release\4 pliki tekstowe.exe.manifest
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\bin\Release\4 pliki tekstowe.application
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\bin\Release\4 pliki tekstowe.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\bin\Release\4 pliki tekstowe.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\obj\Release\_4_pliki_tekstowe.Form1.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\obj\Release\_4_pliki_tekstowe.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.exe.manifest
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad 2 a\4 pliki tekstowe\4 pliki tekstowe\obj\Release\4 pliki tekstowe.application

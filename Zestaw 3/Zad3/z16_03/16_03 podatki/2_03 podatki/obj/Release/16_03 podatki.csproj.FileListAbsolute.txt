@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_03\2_03 podatki\2_03 podatki\bin\Release\16_03 podatki.exe.config
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_03\2_03 podatki\2_03 podatki\obj\Release\16_03 podatki.exe
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_03\2_03 podatki\2_03 podatki\obj\Release\16_03 podatki.pdb
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_03\2_03 podatki\2_03 podatki\bin\Release\16_03 podatki.exe
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_03\2_03 podatki\2_03 podatki\bin\Release\16_03 podatki.pdb
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_03\2_03 podatki\2_03 podatki\obj\Release\16_03 podatki.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_03\2_03 podatki\2_03 podatki\obj\Release\_16_03_podatki.Form1.resources
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_03\2_03 podatki\2_03 podatki\obj\Release\_16_03_podatki.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_03\2_03 podatki\2_03 podatki\obj\Release\16_03 podatki.csproj.GenerateResource.Cache

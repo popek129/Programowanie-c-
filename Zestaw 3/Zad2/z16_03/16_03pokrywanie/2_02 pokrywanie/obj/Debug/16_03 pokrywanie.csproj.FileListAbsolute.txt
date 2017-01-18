@@ -1,0 +1,21 @@
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_02 pokrywanie\2_02 pokrywanie\bin\Debug\2_02 pokrywanie.exe.config
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_02 pokrywanie\2_02 pokrywanie\bin\Debug\2_02 pokrywanie.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_02 pokrywanie\2_02 pokrywanie\bin\Debug\2_02 pokrywanie.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\2_02 pokrywanie.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\_2_02_pokrywanie.Form1.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\_2_02_pokrywanie.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\2_02 pokrywanie.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\2_02 pokrywanie.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\2_02 pokrywanie.pdb
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_02\2_02 pokrywanie\2_02 pokrywanie\bin\Debug\16_03 pokrywanie.exe.config
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_02\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\16_03 pokrywanie.exe
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_02\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\16_03 pokrywanie.pdb
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_02\2_02 pokrywanie\2_02 pokrywanie\bin\Debug\16_03 pokrywanie.exe
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_02\2_02 pokrywanie\2_02 pokrywanie\bin\Debug\16_03 pokrywanie.pdb
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_02\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\16_03 pokrywanie.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_02\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\_16_03_pokrywanie.Form1.resources
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_02\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\_16_03_pokrywanie.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Programowanie\Програми до Липа\z2_02\2_02 pokrywanie\2_02 pokrywanie\obj\Debug\16_03 pokrywanie.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 3\Zad2\z16_03\16_03pokrywanie\2_02 pokrywanie\bin\Debug\16_03 pokrywanie.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 3\Zad2\z16_03\16_03pokrywanie\2_02 pokrywanie\obj\Debug\16_03 pokrywanie.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 3\Zad2\z16_03\16_03pokrywanie\2_02 pokrywanie\obj\Debug\16_03 pokrywanie.pdb

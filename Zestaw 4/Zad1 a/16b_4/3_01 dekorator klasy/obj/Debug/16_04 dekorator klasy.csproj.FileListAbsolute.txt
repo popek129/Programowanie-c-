@@ -1,0 +1,30 @@
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_01 dekorator klasy\3_01 dekorator klasy\bin\Debug\3_01 dekorator klasy.exe.config
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_01 dekorator klasy\3_01 dekorator klasy\bin\Debug\3_01 dekorator klasy.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_01 dekorator klasy\3_01 dekorator klasy\bin\Debug\3_01 dekorator klasy.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_01 dekorator klasy\3_01 dekorator klasy\obj\Debug\3_01 dekorator klasy.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_01 dekorator klasy\3_01 dekorator klasy\obj\Debug\_3_01_dekorator_klasy.Form1.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_01 dekorator klasy\3_01 dekorator klasy\obj\Debug\_3_01_dekorator_klasy.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_01 dekorator klasy\3_01 dekorator klasy\obj\Debug\3_01 dekorator klasy.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_01 dekorator klasy\3_01 dekorator klasy\obj\Debug\3_01 dekorator klasy.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_01 dekorator klasy\3_01 dekorator klasy\obj\Debug\3_01 dekorator klasy.pdb
+E:\ПОЛІТБУДА\2 курс\3 семестр\Лип\Програми до Липа\z3_01\3_01 dekorator klasy\3_01 dekorator klasy\bin\Debug\3_01 dekorator klasy.exe.config
+E:\ПОЛІТБУДА\2 курс\3 семестр\Лип\Програми до Липа\z3_01\3_01 dekorator klasy\3_01 dekorator klasy\obj\Debug\3_01 dekorator klasy.exe
+E:\ПОЛІТБУДА\2 курс\3 семестр\Лип\Програми до Липа\z3_01\3_01 dekorator klasy\3_01 dekorator klasy\obj\Debug\3_01 dekorator klasy.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1\16b_4\3_01 dekorator klasy\bin\Debug\16_04 dekorator klasy.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1\16b_4\3_01 dekorator klasy\obj\Debug\16_04 dekorator klasy.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1\16b_4\3_01 dekorator klasy\obj\Debug\16_04 dekorator klasy.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1\16b_4\3_01 dekorator klasy\bin\Debug\16_04 dekorator klasy.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1\16b_4\3_01 dekorator klasy\bin\Debug\16_04 dekorator klasy.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1\16b_4\3_01 dekorator klasy\obj\Debug\16_04 dekorator klasy.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1\16b_4\3_01 dekorator klasy\obj\Debug\_16_04_dekorator_klasy.Form1.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1\16b_4\3_01 dekorator klasy\obj\Debug\_16_04_dekorator_klasy.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1\16b_4\3_01 dekorator klasy\obj\Debug\16_04 dekorator klasy.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 a\16b_4\3_01 dekorator klasy\bin\Debug\16_04 dekorator klasy.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 a\16b_4\3_01 dekorator klasy\obj\Debug\16_04 dekorator klasy.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 a\16b_4\3_01 dekorator klasy\obj\Debug\16_04 dekorator klasy.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 a\16b_4\3_01 dekorator klasy\bin\Debug\16_04 dekorator klasy.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 a\16b_4\3_01 dekorator klasy\bin\Debug\16_04 dekorator klasy.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 a\16b_4\3_01 dekorator klasy\obj\Debug\16_04 dekorator klasy.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 a\16b_4\3_01 dekorator klasy\obj\Debug\_16_04_dekorator_klasy.Form1.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 a\16b_4\3_01 dekorator klasy\obj\Debug\_16_04_dekorator_klasy.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 a\16b_4\3_01 dekorator klasy\obj\Debug\16_04 dekorator klasy.csproj.GenerateResource.Cache

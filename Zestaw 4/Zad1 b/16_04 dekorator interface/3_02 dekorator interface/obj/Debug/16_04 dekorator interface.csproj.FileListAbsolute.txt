@@ -1,0 +1,18 @@
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_02 dekorator interface\3_02 dekorator interface\bin\Debug\3_02 dekorator interface.exe.config
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_02 dekorator interface\3_02 dekorator interface\obj\Debug\3_02 dekorator interface.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_02 dekorator interface\3_02 dekorator interface\obj\Debug\_3_02_dekorator_interface.Properties.Resources.resources
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_02 dekorator interface\3_02 dekorator interface\obj\Debug\3_02 dekorator interface.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_02 dekorator interface\3_02 dekorator interface\bin\Debug\3_02 dekorator interface.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_02 dekorator interface\3_02 dekorator interface\bin\Debug\3_02 dekorator interface.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_02 dekorator interface\3_02 dekorator interface\obj\Debug\3_02 dekorator interface.exe
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_02 dekorator interface\3_02 dekorator interface\obj\Debug\3_02 dekorator interface.pdb
+C:\Users\Patryk\Desktop\Programowanie\JiPP\3_02 dekorator interface\3_02 dekorator interface\obj\Debug\_3_02_dekorator_interface.Form1.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 b\16_04 dekorator interface\3_02 dekorator interface\bin\Debug\16_04 dekorator interface.exe.config
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 b\16_04 dekorator interface\3_02 dekorator interface\obj\Debug\16_04 dekorator interface.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 b\16_04 dekorator interface\3_02 dekorator interface\obj\Debug\16_04 dekorator interface.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 b\16_04 dekorator interface\3_02 dekorator interface\bin\Debug\16_04 dekorator interface.exe
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 b\16_04 dekorator interface\3_02 dekorator interface\bin\Debug\16_04 dekorator interface.pdb
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 b\16_04 dekorator interface\3_02 dekorator interface\obj\Debug\16_04 dekorator interface.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 b\16_04 dekorator interface\3_02 dekorator interface\obj\Debug\_16_04_dekorator_interface.Form1.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 b\16_04 dekorator interface\3_02 dekorator interface\obj\Debug\_16_04_dekorator_interface.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Zadanka paradygmaty\Zestaw 4\Zad1 b\16_04 dekorator interface\3_02 dekorator interface\obj\Debug\16_04 dekorator interface.csproj.GenerateResource.Cache
